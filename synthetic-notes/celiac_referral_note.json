@@ -1,0 +1,85 @@
+{
+    "referral_metadata": {
+        "referral_id": "REF-2026-883921",
+        "date_of_referral": "2026-09-18",
+        "priority_level": "Urgent Routine",
+        "referring_clinician": {
+            "name": "Dr. Sarah Jenkins",
+            "gmc_number": "6123456",
+            "role": "General Practitioner",
+            "practice": "St. Mary's Medical Practice",
+            "address": "12 High Street, London, EC1A 1BB",
+            "phone": "020 7946 0123",
+            "email": "sarah.jenkins@nhs.net"
+        },
+        "recipient_specialty": "Gastroenterology",
+        "receiving_hospital": "St Thomas' Hospital Gastroenterology Department",
+        "receiving_address": "Westminster Bridge Rd, London SE1 7EH"
+    },
+    "patient_demographics": {
+        "nhs_number": "485 739 2011",
+        "full_name": "Eleanor Vance",
+        "date_of_birth": "1994-06-12",
+        "gender": "Female",
+        "address": "45 Willow Way, London, SE1 2AB",
+        "contact_number": "07700 900123"
+    },
+    "clinical_summary": {
+        "reason_for_referral": "Suspected Celiac Disease",
+        "history_of_present_illness": "Patient presents with a 6-month history of persistent bloating, chronic fatigue, alternating bowel habits, and unexplained weight loss (~4kg). Symptoms exacerbate following carbohydrate-heavy meals.",
+        "gluten_diet_status": "Confirmed patient remains on a regular gluten-containing diet prior to diagnostic testing.",
+        "family_history": "Mother diagnosed with Autoimmune Thyroiditis."
+    },
+    "triage_assessment": {
+        "urgency_rating": "Urgent Routine",
+        "rationale": "Markedly elevated IgA anti-tTG antibody titers (>10x upper limit of normal) combined with microcytic anaemia. Rapid diagnostic endoscopic biopsy recommended to prevent further malabsorption complications."
+    },
+    "investigations_and_lab_results": [
+        {
+            "test_name": "IgA anti-Tissue Transglutaminase (anti-tTG)",
+            "result": "128 U/mL",
+            "reference_range": "< 10 U/mL",
+            "status": "Abnormal (High)"
+        },
+        {
+            "test_name": "Total Serum IgA",
+            "result": "2.1 g/L",
+            "reference_range": "0.8 - 4.0 g/L",
+            "status": "Normal"
+        },
+        {
+            "test_name": "Haemoglobin (Hb)",
+            "result": "10.2 g/dL",
+            "reference_range": "12.0 - 15.5 g/dL",
+            "status": "Abnormal (Low)"
+        },
+        {
+            "test_name": "Serum Ferritin",
+            "result": "11 ug/L",
+            "reference_range": "13 - 150 ug/L",
+            "status": "Abnormal (Low)"
+        },
+        {
+            "test_name": "Mean Corpuscular Volume (MCV)",
+            "result": "74 fL",
+            "reference_range": "80 - 100 fL",
+            "status": "Abnormal (Low)"
+        }
+    ],
+    "current_medications": [
+        {
+            "drug_name": "Ferrous Fumarate",
+            "dosage": "210mg",
+            "frequency": "Twice daily"
+        },
+        {
+            "drug_name": "Paracetamol",
+            "dosage": "500mg - 1000mg",
+            "frequency": "PRN for discomfort"
+        }
+    ],
+    "allergies": [
+        "No Known Drug Allergies (NKDA)"
+    ],
+    "requested_action": "Outpatient duodenal biopsy / gastroscopy and formal gastroenterology evaluation."
+}

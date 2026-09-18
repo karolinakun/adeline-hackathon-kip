@@ -1,0 +1,70 @@
+{
+    "referral_metadata": {
+        "referral_id": "REF-2026-904128",
+        "date_of_referral": "2026-09-12",
+        "priority_level": null,
+        "referring_clinician": {
+            "name": "Dr. Aris Thorne",
+            "gmc_number": "7194028",
+            "role": "General Practitioner",
+            "practice": "Highbury Park Health Centre",
+            "address": "45 Highbury Park, London, N5 1TH",
+            "phone": "020 7946 0812",
+            "email": "aris.thorne@nhs.net"
+        },
+        "recipient_specialty": "Gastroenterology",
+        "receiving_hospital": "Royal Free Hospital Gastroenterology Department",
+        "receiving_address": "Pond Street, London, NW3 2QG"
+    },
+    "patient_demographics": {
+        "nhs_number": "981 204 5591",
+        "full_name": "Oliver Smith",
+        "date_of_birth": "1988-11-23",
+        "gender": "Male",
+        "address": "18 Drayton Park, London, N5 1AL",
+        "contact_number": "07700 900451"
+    },
+    "clinical_summary": {
+        "reason_for_referral": "Suspected Inflammatory Bowel Disease (IBD)",
+        "history_of_present_illness": "Patient presents with a [MISSING]-month history of recurrent abdominal pain, nocturnal diarrhea, and episodic rectal bleeding. Significant weight loss noted over the last few months.",
+        "family_history": "[MISSING]"
+    },
+    "triage_assessment": null,
+    "investigations_and_lab_results": [
+        {
+            "test_name": "Faecal Calprotectin",
+            "result": "[MISSING] ug/g",
+            "reference_range": "< 50 ug/g",
+            "status": "Elevated"
+        },
+        {
+            "test_name": "C-Reactive Protein (CRP)",
+            "result": "[MISSING] mg/L",
+            "reference_range": "< 5 mg/L",
+            "status": "Elevated"
+        },
+        {
+            "test_name": "Haemoglobin (Hb)",
+            "result": "[MISSING] g/dL",
+            "reference_range": "12.0 - 15.5 g/dL",
+            "status": "Low"
+        },
+        {
+            "test_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "result": "[MISSING] mm/hr",
+            "reference_range": "< 20 mm/hr",
+            "status": "Elevated"
+        }
+    ],
+    "current_medications": [
+        {
+            "drug_name": "[MISSING]",
+            "dosage": "[MISSING]",
+            "frequency": "[MISSING]"
+        }
+    ],
+    "allergies": [
+        "[MISSING]"
+    ],
+    "requested_action": "Colonoscopy and gastroenterology evaluation for suspected IBD (Crohn's vs Ulcerative Colitis)."
+}
